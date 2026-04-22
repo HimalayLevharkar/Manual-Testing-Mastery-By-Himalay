@@ -321,13 +321,16 @@ This is a **complete, enterprise-level Manual Testing learning repository** desi
 
 ### 📖 Module 22: JIRA & Bug Lifecycle  
 **Location:** `22_JIRA_Bug_Lifecycle/`
-**File:** `[To be created]`
-**Topics:**
+**File:** `01_JIRA_Bug_Lifecycle_Complete.md`
 - ✅ JIRA setup
 - ✅ Create issue
 - ✅ Link issues
 - ✅ Workflow configuration
 - ✅ Reports in JIRA
+- ✅ Bug lifecycle & workflow
+- ✅ Best practices
+- ✅ Practical examples
+- ✅ 10+ Interview questions
 - **Reading Time:** 1.5 hours
 - **Level:** Beginner to Intermediate
 
@@ -347,57 +350,83 @@ This is a **complete, enterprise-level Manual Testing learning repository** desi
 
 ### 📖 Module 24: Real-Time Bugs  
 **Location:** `24_Real_Time_Bugs/`
-**File:** `[To be created]`
-**Topics:**
-- ✅ 50+ real bugs from production
-- ✅ Case studies
-- ✅ Bug analysis & lessons learned
+**File:** `01_Real_Time_Bugs_Complete.md`
+- ✅ Real bug case studies (4 detailed)
+- ✅ Payment processing bugs
+- ✅ Data loss scenarios
+- ✅ Session management issues
+- ✅ Calculation errors
+- ✅ Root cause analysis
+- ✅ Prevention strategies
+- ✅ Common bug patterns
+- ✅ 10+ Interview questions
 - **Reading Time:** 2 hours
 - **Level:** Intermediate to Advanced
 
 ### 📖 Module 25: Checklists  
 **Location:** `25_Checklists/`
-**File:** `[To be created]`
-**Topics:**
+**File:** `01_Checklists_Complete.md`
 - ✅ Pre-testing checklist
-- ✅ Test case checklist
+- ✅ Test case design checklist
 - ✅ Bug report checklist
-- ✅ Release checklist
-- ✅ Interview checklist
+- ✅ Regression testing checklist
+- ✅ Release testing checklist
+- ✅ Performance testing checklist
+- ✅ Security testing checklist
+- ✅ Exploratory testing checklist
+- ✅ UAT checklist
+- ✅ Quick reference guide
 - **Reading Time:** 30 minutes (reference)
 - **Level:** All Levels
 
 ### 📖 Module 26: Mindmaps & Flowcharts  
 **Location:** `26_Mindmaps_Flowcharts/`
-**File:** `[To be created]`
-**Topics:**
-- ✅ SDLC flowcharts
+**File:** `01_Mindmaps_Flowcharts_Complete.md`
+- ✅ SDLC flowchart
 - ✅ STLC mindmap
-- ✅ Testing types mindmap
-- ✅ Bug lifecycle diagram
+- ✅ Testing types decision tree
+- ✅ Bug lifecycle flowchart
+- ✅ Test case design process
+- ✅ Risk assessment matrix
+- ✅ QA framework visualization
+- ✅ Career path roadmap
+- ✅ Testing pyramid
 - **Reading Time:** 1 hour
 - **Level:** All Levels
 
 ### 📖 Module 27: Mock Projects  
 **Location:** `27_Mock_Projects/`
-**File:** `[To be created]`
-**Topics:**
-- ✅ Practice Project 1: E-commerce App
-- ✅ Practice Project 2: Banking App
-- ✅ Practice Project 3: Social Media App
-- ✅ Complete with requirements, test cases, scenarios
+**File:** `01_Mock_Projects_Complete.md`
+- ✅ Mock Project 1: E-Commerce App
+  - Features to test
+  - Test scenarios
+  - 50+ test cases
+  - Bug examples
+- ✅ Mock Project 2: Banking App
+  - Security testing
+  - Compliance checklist
+  - Performance requirements
+- ✅ Mock Project 3: Social Media App
+  - Usability testing
+  - Cross-browser testing
+- ✅ Testing approach guide
+- ✅ Best practices
+- ✅ Practice tasks
 - **Reading Time:** 4-6 hours (hands-on)
 - **Level:** Intermediate
 
 ### 📖 Module 28: Career Growth Roadmap  
 **Location:** `28_Career_Growth_Roadmap/`
-**File:** `[To be created]`
-**Topics:**
-- ✅ Career path (Junior → Senior → Lead → Manager)
-- ✅ Skills to develop
-- ✅ Certifications to pursue
-- ✅ 5-year roadmap
-- ✅ Switching to automation
+**File:** `01_Career_Growth_Roadmap_Complete.md`
+- ✅ Career levels (Junior → Senior → Manager → Director)
+- ✅ Role expectations at each level
+- ✅ Salary progression & compensation
+- ✅ Skill development path
+- ✅ Role transitions & options
+- ✅ Certification roadmap
+- ✅ Interview preparation by level
+- ✅ Networking & personal branding
+- ✅ 5-year & 10-year career planning
 - **Reading Time:** 1.5 hours
 - **Level:** All Levels
 
